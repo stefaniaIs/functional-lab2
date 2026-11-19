@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "  olena koval ", "region": "North", "sales": [500, 700, 300]},
+  {"id": 2, "name": "petro", "region": "South", "sales": [1200, 800]},
+  {"id": 3, "name": "IRYNA", "region": "West", "sales": [400, 300]},
+  {"id": 4, "name": "taras", "region": "North", "sales": [900, 950]},
+  {"id": 5, "name": "oksana", "region": "East", "sales": [2000]},
+  {"id": 6, "name": "max", "region": "West", "sales": []}
+]
